@@ -62,3 +62,5 @@ This script does 4 things:
 3. Generates calldata with `generateCallData()`.
 4. Calls `verifyProof()` on the verifier contract with calldata.
 5. Lastly, the asserted output should turn out to be  `TRUE`.
+
+![image](https://github.com/ShivamGupta92/METACRAFTERS-POLYGON-MODULE-3/assets/70855458/18c4ebef-e842-486e-96d5-1b4f7a5ed073)
